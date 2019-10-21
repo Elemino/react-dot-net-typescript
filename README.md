@@ -1,4 +1,5 @@
-# Running the Code Challenge
+# Example Financial App
+
 
 ### Dependencies
 
@@ -29,7 +30,7 @@ This will start the app and it will be viewable at http://localhost:5000
 
 ### Introduction
 
-A web application that creates a simple dashboard for basic financial information.  The dashboard will track basic financial information and is organized into four departments:  Products, Marketing, Sales, and Services.  For each calendar month since January 2016, a monthly amount is determined for each department's budget and a monthly amount for that the department actually spent.  Monthly mounts are already planned for each department through to December 2019.  The monthly amounts for actual expenditures are added at month-end.
+An example of a frontend that I've built for a financial web application that creates a simple dashboard for basic financial information as part of a code challenge.  It is one of the most fun projects I've ever worked on and I've finally figured out how to run it without errors. The dashboard tracks basic financial information and is organized into four departments:  Products, Marketing, Sales, and Services.  For each calendar month since January 2016, a monthly amount is determined for each department's budget and a monthly amount for that the department actually spent.  Monthly mounts are already planned for each department through to December 2019.  The monthly amounts for actual expenditures are added at month-end.
 
 The dashboard consists of four main charts that aggregate this information:
 
