@@ -1,4 +1,4 @@
-# Example Financial App
+# Example Financial App 🔥
 
 
 ### Dependencies
@@ -69,7 +69,6 @@ The 4 main charts are:
 
 
 
-**Implementation Notes**<br/>
 Available options for date periods are:
 
 * Calendar Year to Date
@@ -78,3 +77,8 @@ Available options for date periods are:
 * Last Quarter
 * Last Month
 
+
+
+To do:
+
+- [ ] Deploy to a cloud service provider
