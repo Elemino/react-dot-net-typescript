@@ -7,6 +7,7 @@ Ensure the following are installed on the machine that will be used for running 
 
 - Node (https://nodejs.org/en/)
 - Docker (https://www.docker.com/get-started)
+- Victory (https://formidable.com/open-source/victory/)
 
 ### Running the application
 
