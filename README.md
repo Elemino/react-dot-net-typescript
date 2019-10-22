@@ -82,3 +82,4 @@ Available options for date periods are:
 To do:
 
 - [ ] Deploy to a cloud service provider
+- [ ] Make Viz update after dropdown item click
