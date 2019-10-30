@@ -1,5 +1,8 @@
 # Example Financial App 🔥
 
+![GitHub Logo](/images/preview.png)
+Format: ![Alt Text](url)
+
 
 ### Dependencies
 
